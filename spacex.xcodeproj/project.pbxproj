@@ -11,10 +11,17 @@
 		ECB6C6C8289ACC5B00CE0A06 /* LaunchListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C6C7289ACC5B00CE0A06 /* LaunchListView.swift */; };
 		ECB6C6CA289ACC5D00CE0A06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECB6C6C9289ACC5D00CE0A06 /* Assets.xcassets */; };
 		ECB6C6CD289ACC5D00CE0A06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECB6C6CC289ACC5D00CE0A06 /* Preview Assets.xcassets */; };
-		ECB6C6D4289AD51500CE0A06 /* FetchLaunchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C6D3289AD51500CE0A06 /* FetchLaunchService.swift */; };
+		ECB6C6D4289AD51500CE0A06 /* FetchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C6D3289AD51500CE0A06 /* FetchService.swift */; };
 		ECB6C74C289AE6A600CE0A06 /* ImageLoaderService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C74B289AE6A600CE0A06 /* ImageLoaderService.swift */; };
 		ECB6C74E289B193700CE0A06 /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C74D289B193700CE0A06 /* ImageCache.swift */; };
 		ECB6C750289B1CD400CE0A06 /* LaunchDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C74F289B1CD400CE0A06 /* LaunchDetailsView.swift */; };
+		ECB6C755289C36D900CE0A06 /* Launch.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C754289C36D900CE0A06 /* Launch.swift */; };
+		ECB6C757289C376B00CE0A06 /* Rocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C756289C376B00CE0A06 /* Rocket.swift */; };
+		ECB6C759289C4B4900CE0A06 /* Payload.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C758289C4B4900CE0A06 /* Payload.swift */; };
+		ECB6C75C289C5F2D00CE0A06 /* LaunchDetailsViewModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C75B289C5F2D00CE0A06 /* LaunchDetailsViewModels.swift */; };
+		ECB6C75E289C5F7A00CE0A06 /* VideoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C75D289C5F7A00CE0A06 /* VideoView.swift */; };
+		ECB6C760289C5FA100CE0A06 /* LaunchImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C75F289C5FA100CE0A06 /* LaunchImageView.swift */; };
+		ECB6C762289C5FD200CE0A06 /* LaunchListViewModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB6C761289C5FD200CE0A06 /* LaunchListViewModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,10 +30,17 @@
 		ECB6C6C7289ACC5B00CE0A06 /* LaunchListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchListView.swift; sourceTree = "<group>"; };
 		ECB6C6C9289ACC5D00CE0A06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECB6C6CC289ACC5D00CE0A06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		ECB6C6D3289AD51500CE0A06 /* FetchLaunchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchLaunchService.swift; sourceTree = "<group>"; };
+		ECB6C6D3289AD51500CE0A06 /* FetchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchService.swift; sourceTree = "<group>"; };
 		ECB6C74B289AE6A600CE0A06 /* ImageLoaderService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoaderService.swift; sourceTree = "<group>"; };
 		ECB6C74D289B193700CE0A06 /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
 		ECB6C74F289B1CD400CE0A06 /* LaunchDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchDetailsView.swift; sourceTree = "<group>"; };
+		ECB6C754289C36D900CE0A06 /* Launch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Launch.swift; sourceTree = "<group>"; };
+		ECB6C756289C376B00CE0A06 /* Rocket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rocket.swift; sourceTree = "<group>"; };
+		ECB6C758289C4B4900CE0A06 /* Payload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Payload.swift; sourceTree = "<group>"; };
+		ECB6C75B289C5F2D00CE0A06 /* LaunchDetailsViewModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchDetailsViewModels.swift; sourceTree = "<group>"; };
+		ECB6C75D289C5F7A00CE0A06 /* VideoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoView.swift; sourceTree = "<group>"; };
+		ECB6C75F289C5FA100CE0A06 /* LaunchImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchImageView.swift; sourceTree = "<group>"; };
+		ECB6C761289C5FD200CE0A06 /* LaunchListViewModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchListViewModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,14 +73,14 @@
 		ECB6C6C4289ACC5B00CE0A06 /* spacex */ = {
 			isa = PBXGroup;
 			children = (
+				ECB6C763289C5FEB00CE0A06 /* Utils */,
+				ECB6C75A289C5F0A00CE0A06 /* View Models */,
+				ECB6C753289C36CA00CE0A06 /* Models */,
+				ECB6C752289C367500CE0A06 /* Views */,
+				ECB6C751289C366800CE0A06 /* Services */,
 				ECB6C6C5289ACC5B00CE0A06 /* spacexApp.swift */,
-				ECB6C6C7289ACC5B00CE0A06 /* LaunchListView.swift */,
 				ECB6C6C9289ACC5D00CE0A06 /* Assets.xcassets */,
 				ECB6C6CB289ACC5D00CE0A06 /* Preview Content */,
-				ECB6C6D3289AD51500CE0A06 /* FetchLaunchService.swift */,
-				ECB6C74B289AE6A600CE0A06 /* ImageLoaderService.swift */,
-				ECB6C74D289B193700CE0A06 /* ImageCache.swift */,
-				ECB6C74F289B1CD400CE0A06 /* LaunchDetailsView.swift */,
 			);
 			path = spacex;
 			sourceTree = "<group>";
@@ -77,6 +91,53 @@
 				ECB6C6CC289ACC5D00CE0A06 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ECB6C751289C366800CE0A06 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				ECB6C6D3289AD51500CE0A06 /* FetchService.swift */,
+				ECB6C74B289AE6A600CE0A06 /* ImageLoaderService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		ECB6C752289C367500CE0A06 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ECB6C6C7289ACC5B00CE0A06 /* LaunchListView.swift */,
+				ECB6C74F289B1CD400CE0A06 /* LaunchDetailsView.swift */,
+				ECB6C75D289C5F7A00CE0A06 /* VideoView.swift */,
+				ECB6C75F289C5FA100CE0A06 /* LaunchImageView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ECB6C753289C36CA00CE0A06 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				ECB6C754289C36D900CE0A06 /* Launch.swift */,
+				ECB6C756289C376B00CE0A06 /* Rocket.swift */,
+				ECB6C758289C4B4900CE0A06 /* Payload.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		ECB6C75A289C5F0A00CE0A06 /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+				ECB6C75B289C5F2D00CE0A06 /* LaunchDetailsViewModels.swift */,
+				ECB6C761289C5FD200CE0A06 /* LaunchListViewModels.swift */,
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		ECB6C763289C5FEB00CE0A06 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				ECB6C74D289B193700CE0A06 /* ImageCache.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,9 +213,16 @@
 				ECB6C74E289B193700CE0A06 /* ImageCache.swift in Sources */,
 				ECB6C6C8289ACC5B00CE0A06 /* LaunchListView.swift in Sources */,
 				ECB6C750289B1CD400CE0A06 /* LaunchDetailsView.swift in Sources */,
-				ECB6C6D4289AD51500CE0A06 /* FetchLaunchService.swift in Sources */,
+				ECB6C759289C4B4900CE0A06 /* Payload.swift in Sources */,
+				ECB6C6D4289AD51500CE0A06 /* FetchService.swift in Sources */,
+				ECB6C755289C36D900CE0A06 /* Launch.swift in Sources */,
 				ECB6C74C289AE6A600CE0A06 /* ImageLoaderService.swift in Sources */,
+				ECB6C75C289C5F2D00CE0A06 /* LaunchDetailsViewModels.swift in Sources */,
 				ECB6C6C6289ACC5B00CE0A06 /* spacexApp.swift in Sources */,
+				ECB6C762289C5FD200CE0A06 /* LaunchListViewModels.swift in Sources */,
+				ECB6C760289C5FA100CE0A06 /* LaunchImageView.swift in Sources */,
+				ECB6C75E289C5F7A00CE0A06 /* VideoView.swift in Sources */,
+				ECB6C757289C376B00CE0A06 /* Rocket.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
